@@ -10,4 +10,3 @@ Development of a Management System for Electronic Equipment Repair Centers that 
 [Rodrigo Rodrigues](https://github.com/webst2r)  
 
 
-### Final grade: 16.0
