@@ -4,7 +4,7 @@ Development of a Management System for Electronic Equipment Repair Centers that 
 ## Group members:  
 
 [Bernardo Saraiva](https://github.com/devsaraiva)  
-[Rui Moreira](https://github.com/RuiMoreiraA93232)  
+[Rui Moreira](https://github.com/RuiFCMoreira)  
 [José João Gonçalves](https://github.com/jjgonc)  
 [Guilherme Monteiro](https://github.com/rushmetra)  
 [Rodrigo Rodrigues](https://github.com/webst2r)  
